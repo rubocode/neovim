@@ -1,4 +1,4 @@
-> [home](/computing)
+> [home](/systems)
 
 ![banner](/neovim/photos/banner.png)
 
