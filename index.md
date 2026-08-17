@@ -1,4 +1,5 @@
 > [home](/systems)
+> &bull; Work in progress...
 
 ![banner](/neovim/photos/banner.png)
 
